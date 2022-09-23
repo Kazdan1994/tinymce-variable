@@ -4,7 +4,7 @@
   "scripts": {
     "test": "eslint -c .eslintrc src/plugin.js",
     "serve": "python -m SimpleHTTPServer",
-    "postinstall": "rollup src/plugin.js --file dist/bundle.js --format iife"
+    "postinstall": "rollup src/plugin.js --file dist/bundle.js"
   },
   "repository": {
     "type": "git",
