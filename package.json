@@ -1,6 +1,6 @@
 {
   "name": "@cto-akatek/tinymce-variable",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "scripts": {
     "test": "eslint -c .eslintrc src/plugin.js",
     "serve": "python -m SimpleHTTPServer",
