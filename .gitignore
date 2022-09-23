@@ -1,5 +1,5 @@
 node_modules/
-bower_components/
 npm-debug.log
 .DS_Store
-plugin.min.js
+.idea
+dist
