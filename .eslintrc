@@ -3,6 +3,10 @@
         "browser": true,
         "node": true
     },
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 2022
+    },
     "rules": {
         "eqeqeq": 0,
         "curly": 0,

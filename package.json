@@ -1,5 +1,5 @@
 {
-  "name": "tinymce-variable",
+  "name": "@cto-akatek/tinymce-variable",
   "version": "0.9.1",
   "scripts": {
     "test": "eslint -c .eslintrc src/plugin.js",
@@ -18,5 +18,8 @@
   "devDependencies": {
     "eslint": "^8.23.1",
     "rollup": "^2.79.1"
+  },
+  "dependencies": {
+    "tinymce": "^6.2.0"
   }
 }
